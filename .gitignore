@@ -1,0 +1,16 @@
+# NetBeans
+build/
+dist/
+nbproject/private/
+nbbuild/
+nb-configuration.xml
+
+# Compilados
+*.class
+
+# Maven (si tu proyecto lo usa)
+target/
+
+# Sistema
+.DS_Store
+Thumbs.db

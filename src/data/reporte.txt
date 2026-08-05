@@ -1,0 +1,54 @@
+========================================
+   REPORTE DE EMPLEADOS
+   Fecha: 2026-08-04
+========================================
+
+Empleado: Maria Fernandez
+Legajo: 100003
+DNI: 34567890
+Ingreso: 2018-01-15
+Antiguedad: 8anios
+Categoria: SENIOR
+Vacaciones: 0 dias
+Sector: RRHH
+Empleados a cargo: 0
+Salario: 132000,00
+----------------------------------------
+Empleado: Ana Garcia
+Legajo: 100001
+DNI: 12345678
+Ingreso: 2020-03-01
+Antiguedad: 6anios
+Categoria: SENIOR
+Vacaciones: 0 dias
+Sueldo Base: 165000,00
+Cantidad de Ventas en periodo: 0
+Sueldo Final: 165000,00
+----------------------------------------
+Empleado: Laura Perez
+Legajo: 100005
+DNI: 56789012
+Ingreso: 2012-09-01
+Antiguedad: 14anios
+Categoria: SENIOR
+Vacaciones: 0 dias
+Auto empresa: No
+Tel empresa: Si
+Dias adicionales vacaciones: 7
+Salario: 275000,00
+Departamento a cargo: Ventas
+Cantidad de subordinados: 5
+----------------------------------------
+Empleado: Roberto Martinez
+Legajo: 100004
+DNI: 45678901
+Ingreso: 2010-04-01
+Antiguedad: 16anios
+Categoria: SENIOR
+Vacaciones: 0 dias
+Auto empresa: Si
+Tel empresa: Si
+Dias adicionales vacaciones: 10
+Salario: 330000,00
+----------------------------------------
+Total: 4 empleados
